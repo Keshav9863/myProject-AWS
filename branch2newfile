@@ -1,0 +1,6 @@
+#include <stdio.in>
+#include <iostream.in>
+int main()
+{
+exit()
+}
